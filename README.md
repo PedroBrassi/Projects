@@ -34,4 +34,3 @@ outside the university curriculum.
 **Pedro Brassi Luccas**
 Computer Science student — Universidade Federal de Alfenas (UNIFAL-MG)
 # Projects
-# Projects
